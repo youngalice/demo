@@ -1,0 +1,1 @@
+This lab is an introduction to Git, which will prepare us for workout01.
